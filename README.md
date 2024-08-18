@@ -77,15 +77,31 @@ _For more examples, please refer to the [Documentation](#)
 
 - [x] MEDICAL SERVICES
 - [x] BLOOD DONOR REGISTRATION
-- [ ] BLOOD RECEIVER REGISTRATION
-- [ ] PHARMACY & DOOR DELIVERY
-- [ ] DIAGNOSTIC LABS & TEST RESULTS
-- [ ] ONLINE MEDIC CONSULT
-- [ ] PERSONAL HEALTH CARE
+- [x] BLOOD RECEIVER REGISTRATION
+- [x] PHARMACY & DOOR DELIVERY
+- [x] DIAGNOSTIC LABS & TEST RESULTS
+- [x] ONLINE MEDIC CONSULT
+- [x] PERSONAL HEALTH CARE
 
 See the [open issues](https://github.com/RESH-22/Hackintym-24.git) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+“Great things in business are never done by one person. They're done by a team.” 
+“Unity must be able to withstand the severest strain without breaking to be genuine.” 
+“Teamwork is the ability to work together toward a common vision
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. My team members contributed their works in all the possible ways and are **greatly appreciated**.
+
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
 
