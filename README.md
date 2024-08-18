@@ -25,7 +25,6 @@ To launch an online interaction medium for all the hospitalization and medicatio
 ## About The Project
 
 
-
 Project Overview 😲
 
 * Login page is used for finding the how many users use the app.
@@ -60,6 +59,34 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+* Integrate a Real Time Hospitals Showing the Avaliability  of Different Blood Types.
+* It Shows Real Time Avaliability of Doctors, Allow users to book Appointments instantly.
+* Doctors Can Share notes, Diagnostic Results, and treatment Plans in Real Time As a Consultations.
+* It Has Blood Donor and Receiver Registration Where Volunteers may Register and get the Information Used by the Hospitals.
+
+_For more examples, please refer to the [Documentation](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Roadmap
+
+- [x] MEDICAL SERVICES
+- [x] BLOOD DONOR REGISTRATION
+- [ ] BLOOD RECEIVER REGISTRATION
+- [ ] PHARMACY & DOOR DELIVERY
+- [ ] DIAGNOSTIC LABS & TEST RESULTS
+- [ ] ONLINE MEDIC CONSULT
+- [ ] PERSONAL HEALTH CARE
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
