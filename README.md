@@ -55,10 +55,10 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Top contributors:
+### Top Contributors:
 
 <a href="#">
-  <img src="" alt="contrib.rocks image" />
+  <img src="rr.png" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
