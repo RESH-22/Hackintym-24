@@ -16,7 +16,6 @@ To launch an online interaction medium for all the hospitalization and medicatio
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -97,13 +96,6 @@ Contributions are what make the open source community such an amazing place to l
 
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
 
 ### Top Contributors:
 
@@ -121,8 +113,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MSEC License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
