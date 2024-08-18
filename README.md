@@ -55,6 +55,14 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+
+
 ### Top Contributors:
 
 <a href="#">
@@ -62,6 +70,17 @@ This section is the list of major frameworks/libraries used to bootstrap our pro
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MSEC License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 
