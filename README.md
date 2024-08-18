@@ -8,9 +8,8 @@ To launch an online interaction medium for all the hospitalization and medicatio
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a> </li>
-        <li><a href="#built-with">Built With</a></li>
+    <li><a href="#about-the-project">About The Project</a> </li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a> </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -44,25 +43,38 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section is the list of major frameworks/libraries used to bootstrap our project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* HTML
+* CSS
+* JAVA SCRIPT
+* SQL
+* CLOUD MANAGEMENT SYSTEM
+* MICROSOFT OFFICE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Top contributors:
+
+<a href="#">
+  <img src="" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Reshmitha R - rreshmitha222gmail.com
+Team members 
+* Pramoth S - pramothsekar@gmail.com
+* Reshmitha R - rreshmitha22@gmail.com
+* Partiban M - banparthi1417@gmail.com
+* Thejashree - 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/RESH-22/Hackintym-24.git](https://github.com/RESH-22/Hackintym-24.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
