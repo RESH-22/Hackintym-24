@@ -1,0 +1,1682 @@
+FRAME 1
+<div class="frame-1">
+  <div class="div">
+    <div class="div-2">
+      <div class="login">LOGIN</div>
+      <div class="email">Email</div>
+      <div class="div-3"><div class="div-4"></div></div>
+      <div class="password">Password</div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/bce58619c744b2157e5222015c752cf161625c7c13d4b2a137528304ab426e4e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img"
+        />
+        <div class="">...........</div>
+      </div>
+      <div class="div-6">
+        <div class="div-7"></div>
+        <div>Remember me</div>
+      </div>
+      <div class="login-2">LOGIN</div>
+      <div class="forgot-password">Forgot Password?</div>
+    </div>
+    <div class="or">--------------------Or----------------------</div>
+    <div class="div-8">
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/1f8482e5afacff215f126f74bb0651e46cae32e08f47799448b2ba25a63b187d?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-2"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/5644a37a75f58dd751fe557ddbe0f83708cb9828a15ee894706727080b50e202?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-3"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/749a9cfd5b42661cf2a7b2f09d8dbcc39e0274ba44b2a6d113831993a6a857ef?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-4"
+      />
+    </div>
+    <div class="need-an-account-sign-up">Need an account ? Sign up</div>
+    <div class="div-9"></div>
+  </div>
+</div>
+<style>
+  .frame-1 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    padding-top: 92px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .div-2 {
+    align-self: stretch;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: start;
+    padding: 0 13px;
+  }
+  .login {
+    color: rgba(0, 0, 0, 1);
+    font: 700 14px Poppins, sans-serif;
+  }
+  .email {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 28px;
+    font: 300 12px Poppins, sans-serif;
+  }
+  .div-3 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    margin-top: 5px;
+    width: 270px;
+    max-width: 100%;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding: 8px 11px;
+  }
+  .div-4 {
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 1);
+    display: flex;
+    width: 5px;
+    height: 23px;
+  }
+  .password {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 25px;
+    font: 300 12px Poppins, sans-serif;
+  }
+  .div-5 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    width: 100%;
+    align-items: start;
+    gap: 2px;
+    color: rgba(0, 0, 0, 1);
+    white-space: nowrap;
+    text-align: center;
+    padding: 8px 54px 8px 10px;
+    font: 700 15px Poppins, sans-serif;
+  }
+  .img {
+    aspect-ratio: 0.04;
+    object-fit: contain;
+    object-position: center;
+    width: 1px;
+  }
+  . {
+    margin-top: 14px;
+    overflow: hidden;
+  }
+  .div-6 {
+    display: flex;
+    margin-top: 27px;
+    gap: 18px;
+    color: rgba(0, 0, 0, 1);
+    font: 300 12px Poppins, sans-serif;
+  }
+  .div-7 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: start;
+    display: flex;
+    width: 18px;
+    height: 19px;
+  }
+  .login-2 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: center;
+    margin-top: 20px;
+    width: 176px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    white-space: nowrap;
+    padding: 11px 69px;
+    font: 300 12px Poppins, sans-serif;
+  }
+  .forgot-password {
+    color: rgba(0, 0, 0, 1);
+    align-self: end;
+    margin-top: 6px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .or {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 10px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-8 {
+    display: flex;
+    margin-top: 4px;
+    width: 115px;
+    max-width: 100%;
+    align-items: start;
+    gap: 20px;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 25px;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 25px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 25px;
+  }
+  .need-an-account-sign-up {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 21px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-9 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    min-height: 34px;
+    margin-top: 25px;
+    width: 100%;
+  }
+</style>
+
+FRAME 2
+<div class="frame-2">
+  <div class="div">
+    <div class="div-2">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/552b93985506c62065f5a7aac8904c1be8a71c14a751b8bac1a724616fb45ec7?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-2"
+      />
+    </div>
+    <div class="search">search</div>
+    <div class="div-3">
+      <div class="div-4">
+        <div class="all">All</div>
+        <div class="availability">Availability</div>
+        <div class="24-hrs">24hrs</div>
+        <div class="blood-group">Blood Group</div>
+        <div class="consult">Consult</div>
+        <div class="donors">Donors</div>
+        <div class="appointment">Appointment</div>
+        <div class="services">Services</div>
+        <div class="emergency">Emergency</div>
+      </div>
+    </div>
+    <div class="div-5">
+      <div class="div-6">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/6aa51d18634ba19eaa383d6e7f441a7cc8ed4cb0f2cdc76088e766b92fd116fd?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-3"
+        />
+        <div class="kauvery-hospital-alwarpet">Kauvery hospital-Alwarpet</div>
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/166533f433416203e678bd75b02500693dbcbd3fe22ecb943cb39287d302653e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-4"
+        />
+        <div class="apollo-hospital-greams-lane">
+          Apollo hospital-Greams
+          <br />
+          lane
+        </div>
+      </div>
+      <div class="div-7">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/8743eadc3251ae336d3adfe66e1726622053abc7cef5965295ad3c0ada2e8079?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-5"
+        />
+        <div class="metha-hospital-chetpet">Metha hospital-Chetpet</div>
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/18f1e65dc21c4a9d9cd0f4fa591b2ea91eb988bc168a06dd97fdee580d685cde?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-6"
+        />
+        <div class="medway-hospital-kodambakkam">
+          Medway hospital-
+          <br />
+          Kodambakkam
+        </div>
+      </div>
+    </div>
+    <div class="div-8"></div>
+  </div>
+</div>
+<style>
+  .frame-2 {
+    display: flex;
+    max-width: 309px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    padding-top: 24px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    max-width: 257px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 0.87;
+    object-fit: contain;
+    object-position: center;
+    width: 27px;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+    align-self: start;
+  }
+  .search {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 45px;
+    min-height: 33px;
+    width: 100%;
+    max-width: 262px;
+    gap: 10px;
+    color: rgba(0, 0, 0, 1);
+    white-space: nowrap;
+    padding: 9px 10px;
+    font: 400 10px Poppins, sans-serif;
+  }
+  .div-3 {
+    border-radius: 30px;
+    background-color: rgba(9, 160, 133, 1);
+    overflow-x: auto;
+    display: flex;
+    margin-top: 18px;
+    width: 261px;
+    max-width: 100%;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: start;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    justify-content: center;
+    padding: 3px 6px;
+    font: 700 15px Poppins, sans-serif;
+  }
+  .div-4 {
+    display: flex;
+    margin-right: -532px;
+    align-items: center;
+    gap: 20px;
+    overflow: hidden;
+    justify-content: center;
+  }
+  .all {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .availability {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .24-hrs {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .blood-group {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .consult {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .donors {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .appointment {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .services {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .emergency {
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-5 {
+    display: flex;
+    margin-top: 48px;
+    width: 100%;
+    max-width: 277px;
+    gap: 19px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    font: 400 10px Poppins, sans-serif;
+  }
+  .div-6 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  .img-3 {
+    aspect-ratio: 1.36;
+    object-fit: contain;
+    object-position: center;
+    width: 131px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .kauvery-hospital-alwarpet {
+    margin-top: 5px;
+  }
+  .img-4 {
+    aspect-ratio: 1.36;
+    object-fit: contain;
+    object-position: center;
+    width: 131px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 8px;
+  }
+  .apollo-hospital-greams-lane {
+    margin-top: 9px;
+  }
+  .div-7 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  .img-5 {
+    aspect-ratio: 1.3;
+    object-fit: contain;
+    object-position: center;
+    width: 125px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .metha-hospital-chetpet {
+    margin-top: 5px;
+  }
+  .img-6 {
+    aspect-ratio: 1.3;
+    object-fit: contain;
+    object-position: center;
+    width: 125px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 7px;
+  }
+  .medway-hospital-kodambakkam {
+    align-self: center;
+    margin-top: 7px;
+  }
+  .div-8 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    margin-top: 21px;
+    height: 34px;
+  }
+</style>
+
+FRAME 3
+
+<div class="frame-3">
+  <div class="div">
+    <div class="div-2">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/e1736515b179cb1a6de3694802aedcb4553ca718e4a6207379c5666317bceed3?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-2"
+      />
+    </div>
+    <div class="medical-services">Medical Services</div>
+    <div class="blood-donors-registration">Blood Donors Registration</div>
+    <div class="blood-receiver-registration">Blood Receiver Registration</div>
+    <div class="pharmacy-door-delivery">Pharmacy & Door delivery</div>
+    <div class="diagnostic-labs-test-results">
+      Diagnostic labs & Test results
+    </div>
+    <div class="online-medic-consult">Online Medic Consult</div>
+    <div class="personal-health-care">Personal Health care</div>
+    <div class="div-3"></div>
+  </div>
+</div>
+<style>
+  .frame-3 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    padding-top: 24px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    max-width: 257px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.07;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .medical-services {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 70px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .blood-donors-registration {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 59px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .blood-receiver-registration {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 23px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 55px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .pharmacy-door-delivery {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 27px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 59px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .diagnostic-labs-test-results {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 27px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 50px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .online-medic-consult {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 33px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 70px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .personal-health-care {
+    border-radius: 10px;
+    background-color: rgba(245, 255, 253, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 27px;
+    width: 100%;
+    max-width: 252px;
+    color: rgba(0, 0, 0, 1);
+    padding: 9px 70px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .div-3 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    min-height: 34px;
+    margin-top: 61px;
+    width: 100%;
+  }
+</style>
+
+FRAME 4
+<div class="frame-4">
+  <div class="div">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/17b6406175a74daae495f3ed66ecb121b393dd2869beaf0624652201cc56b4be?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+      class="img"
+    />
+    <div class="div-2">
+      <div class="div-3">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-2"
+        />
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-3"
+        />
+      </div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/d0516651dacda76bc9202fc9bdcce31371d4a929e247b382efa4210988495ee9?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-4"
+      />
+      <div class="kauvery-hospital-alwarpet">
+        <span style="font-weight: 700; font-size: 14px">Kauvery hospital</span>
+        <br />
+        Alwarpet
+      </div>
+      <div class="no-199-luz-church-road-alwarpet-chennai-tamilnadu-india">
+        No.199, Luz Church Road, Alwarpet, Chennai Tamilnadu, India.
+      </div>
+      <div class="div-4">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-5"
+        />
+        <div class="view-location-on-map">View location on map</div>
+      </div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-6"
+        />
+        <div class="click-here-to-view-available-blood-groups">
+          Click here to view available blood groups
+        </div>
+      </div>
+      <div class="for-appointments-044-4000-6000">
+        <span style="font-weight: 300">For Appointments: </span>
+        <a
+          href="tel:04440006000"
+          style="font-weight: 300; text-decoration: underline"
+          target="_blank"
+        >
+          044 4000 6000
+        </a>
+      </div>
+      <div class="ambulance-services-91-091500-30541">
+        Ambulance Services:
+        <a
+          href="tel:9150030541"
+          style="text-decoration: underline"
+          target="_blank"
+        >
+          +91 – 091500 30541
+        </a>
+      </div>
+      <div class="click-here-to-book-an-appointment">
+        Click here to book an appointment
+      </div>
+      <div class="div-6">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/722de058d7c03482a980cce54016a11112ad815bd591b0691a74aeba4cc003e0?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img"
+        />
+        Book Now!
+      </div>
+    </div>
+    <div class="div-8"></div>
+  </div>
+</div>
+<style>
+  .frame-4 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    aspect-ratio: 0.545;
+    width: 100%;
+    padding: 24px 0 3px;
+  }
+  .img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-2 {
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 15px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img-2 {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .img-4 {
+    aspect-ratio: 1.73;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 17px;
+  }
+  .kauvery-hospital-alwarpet {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-top: 14px;
+    font: 400 12px Poppins, sans-serif;
+  }
+  .no-199-luz-church-road-alwarpet-chennai-tamilnadu-india {
+    color: rgba(0, 0, 0, 1);
+    align-self: center;
+    width: 267px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-4 {
+    align-self: start;
+    display: flex;
+    gap: 10px;
+    color: rgba(0, 0, 0, 1);
+    margin: 16px 0 0 14px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+    align-self: start;
+  }
+  .view-location-on-map {
+    flex-basis: auto;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    gap: 8px;
+    color: rgba(9, 160, 133, 1);
+    margin: 17px 0 0 12px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .click-here-to-view-available-blood-groups {
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .for-appointments-044-4000-6000 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin: 13px 0 0 14px;
+    font: 700 10px Poppins, sans-serif;
+  }
+  .ambulance-services-91-091500-30541 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin: 8px 0 0 14px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-book-an-appointment {
+    color: rgba(0, 0, 0, 1);
+    align-self: center;
+    margin-top: 19px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-6 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border-radius: 20px;
+    align-self: center;
+    aspect-ratio: 5.19;
+    margin-top: 7px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    padding: 2px 22px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-7 {
+    position: relative;
+  }
+  .div-8 {
+    position: relative;
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    min-height: 34px;
+    margin-top: 18px;
+    width: 100%;
+  }
+</style>
+
+FRAME 5
+<div class="frame-5">
+  <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img"
+        />
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-2"
+        />
+      </div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/bbeaa63a8250cae778d4f5af4d229f1747f13d0aa7106a2f9fe49d1cee77c152?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-3"
+      />
+      <div class="metha-hospital-chetpet">
+        <span style="font-weight: 700">Metha hospital</span>
+        <br />
+        <span style="font-size: 12px">Chetpet</span>
+      </div>
+      <div
+        class="no-2-1-2-3-mc-nichols-road-3rd-ln-chetpet-chennai-tamil-nadu-600031"
+      >
+        No.2/1,2, 3, Mc Nichols Road 3rd Ln, Chetpet, Chennai, Tamil Nadu 600031
+      </div>
+      <div class="div-4">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-4"
+        />
+        <div class="view-location-on-map">View location on map</div>
+      </div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-5"
+        />
+        <div class="click-here-to-view-available-blood-groups">
+          Click here to view available blood groups
+        </div>
+      </div>
+      <div class="for-appointments-08147956029">
+        For Appointments: 08147956029
+      </div>
+      <div class="ambulance-services-91-091500-30541">
+        Ambulance Services:
+        <a
+          href="tel:9150030541"
+          style="text-decoration: underline"
+          target="_blank"
+        >
+          +91 – 091500 30541
+        </a>
+      </div>
+      <div class="click-here-to-book-an-appointment">
+        Click here to book an appointment
+      </div>
+      <div class="book-now">Book Now!</div>
+    </div>
+    <div class="div-6"></div>
+  </div>
+</div>
+<style>
+  .frame-5 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    padding-top: 24px;
+    flex-direction: column;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 20px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .img-3 {
+    aspect-ratio: 1.52;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 10px;
+  }
+  .metha-hospital-chetpet {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-top: 16px;
+    font: 400 14px Poppins, sans-serif;
+  }
+  .no-2-1-2-3-mc-nichols-road-3rd-ln-chetpet-chennai-tamil-nadu-600031 {
+    color: rgba(0, 0, 0, 1);
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-4 {
+    align-self: start;
+    display: flex;
+    margin-top: 12px;
+    gap: 4px;
+    color: rgba(0, 0, 0, 1);
+    font: 300 10px Poppins, sans-serif;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .view-location-on-map {
+    flex-basis: auto;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 12px;
+    gap: 5px;
+    color: rgba(9, 160, 133, 1);
+    font: 300 10px Poppins, sans-serif;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .click-here-to-view-available-blood-groups {
+    flex-basis: auto;
+  }
+  .for-appointments-08147956029 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 12px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .ambulance-services-91-091500-30541 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 5px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-book-an-appointment {
+    color: rgba(0, 0, 0, 1);
+    align-self: center;
+    margin-top: 28px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .book-now {
+    border-radius: 20px;
+    background-color: rgba(138, 207, 195, 1);
+    align-self: center;
+    margin-top: 13px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    padding: 2px 22px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-6 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    min-height: 36px;
+    margin-top: 14px;
+    width: 100%;
+  }
+</style>
+
+FRAME 6
+<div class="frame-6">
+  <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img"
+        />
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-2"
+        />
+      </div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/e1a21dc520341c46f48e49232dcecfe7b09b99404f4a092aa8b1874f890323d4?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-3"
+      />
+      <div class="apollo-hospital-greams-lane">
+        Apollo hospital
+        <br />
+        <span style="font-weight: 400; font-size: 12px">Greams Lane</span>
+      </div>
+      <div class="21-greams-lane-off-greams-road-chennai-600006">
+        21, Greams Lane, Off Greams Road Chennai – 600006
+      </div>
+      <div class="div-4">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-4"
+        />
+        <div class="view-location-on-map">View location on map</div>
+      </div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-5"
+        />
+        <div class="click-here-to-view-available-blood-groups">
+          Click here to view available blood groups
+        </div>
+      </div>
+      <div class="for-appointments-08147956029">
+        For Appointments: 08147956029
+      </div>
+      <div class="ambulance-services-91-091500-30541">
+        Ambulance Services:
+        <a
+          href="tel:9150030541"
+          style="text-decoration: underline"
+          target="_blank"
+        >
+          +91 – 091500 30541
+        </a>
+      </div>
+      <div class="click-here-to-book-an-appointment">
+        Click here to book an appointment
+      </div>
+      <div class="book-now">Book Now!</div>
+    </div>
+    <div class="div-6"></div>
+  </div>
+</div>
+<style>
+  .frame-6 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    padding-top: 24px;
+    flex-direction: column;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 20px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .img-3 {
+    aspect-ratio: 1.45;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 8px;
+  }
+  .apollo-hospital-greams-lane {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-top: 8px;
+    font: 700 14px Poppins, sans-serif;
+  }
+  .21-greams-lane-off-greams-road-chennai-600006 {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 8px;
+    width: 256px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-4 {
+    align-self: start;
+    display: flex;
+    margin-top: 19px;
+    gap: 6px;
+    color: rgba(0, 0, 0, 1);
+    font: 400 10px Poppins, sans-serif;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .view-location-on-map {
+    flex-basis: auto;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 12px;
+    gap: 5px;
+    color: rgba(9, 160, 133, 1);
+    font: 300 10px Poppins, sans-serif;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .click-here-to-view-available-blood-groups {
+    flex-basis: auto;
+  }
+  .for-appointments-08147956029 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 12px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .ambulance-services-91-091500-30541 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 5px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-book-an-appointment {
+    color: rgba(0, 0, 0, 1);
+    align-self: center;
+    margin-top: 29px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .book-now {
+    border-radius: 20px;
+    background-color: rgba(138, 207, 195, 1);
+    align-self: center;
+    margin-top: 14px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    padding: 2px 22px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-6 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    min-height: 34px;
+    margin-top: 14px;
+    width: 100%;
+  }
+</style>
+
+FRAME 7
+<div class="frame-7">
+  <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img"
+        />
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-2"
+        />
+      </div>
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/f3fe4cfe56e929e1ee48c29a93d56604ed40ad14e7f169f6f0a773975a1c8048?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-3"
+      />
+      <div class="medway-hospital">
+        Medway hospital
+        <br />
+      </div>
+      <div class="kodambakkam">Kodambakkam</div>
+      <div
+        class="2-26-1st-main-rd-united-india-colony-kodambakkam-chennai-tamil-nadu-600024"
+      >
+        2, 26, 1st Main Rd, United India Colony,
+        <br />
+        Kodambakkam, Chennai, Tamil Nadu 600024
+      </div>
+      <div class="div-4">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/17ad016039f13c1cd138120c63cf1562571884efc3aab17eb68735b948846ab2?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-4"
+        />
+        <div class="view-location-on-map">View location on map</div>
+      </div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/de306a610b3b3e480aa9f3d3099dad0a2e9087697ff2530e942d0396c51bcf15?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+          class="img-5"
+        />
+        <div class="click-here-to-view-available-blood-groups">
+          Click here to view available blood groups
+        </div>
+      </div>
+      <div class="for-appointments-08147956029">
+        For Appointments: 08147956029
+      </div>
+      <div class="ambulance-services-91-091500-30541">
+        Ambulance Services:
+        <a
+          href="tel:9150030541"
+          style="text-decoration: underline"
+          target="_blank"
+        >
+          +91 – 091500 30541
+        </a>
+      </div>
+      <div class="click-here-to-book-an-appointment">
+        Click here to book an appointment
+      </div>
+      <div class="book-now">Book Now!</div>
+    </div>
+    <div class="div-6"></div>
+  </div>
+</div>
+<style>
+  .frame-7 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 24px 0 3px;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 23px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .img-3 {
+    aspect-ratio: 1.46;
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 12px;
+  }
+  .medway-hospital {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-top: 14px;
+    font: 700 14px Poppins, sans-serif;
+  }
+  .kodambakkam {
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    align-self: center;
+    margin-top: 7px;
+    font: 400 12px Poppins, sans-serif;
+  }
+  .2-26-1st-main-rd-united-india-colony-kodambakkam-chennai-tamil-nadu-600024 {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 6px;
+    width: 273px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .div-4 {
+    align-self: start;
+    display: flex;
+    margin-top: 18px;
+    gap: 19px;
+    color: rgba(0, 0, 0, 1);
+    font: 400 10px Poppins, sans-serif;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .view-location-on-map {
+    flex-basis: auto;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 14px;
+    gap: 12px;
+    color: rgba(9, 160, 133, 1);
+    font: 400 10px Poppins, sans-serif;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 19px;
+  }
+  .click-here-to-view-available-blood-groups {
+    flex-basis: auto;
+  }
+  .for-appointments-08147956029 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 4px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .ambulance-services-91-091500-30541 {
+    color: rgba(0, 0, 0, 1);
+    align-self: start;
+    margin-top: 4px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-book-an-appointment {
+    color: rgba(0, 0, 0, 1);
+    margin: 24px 21px 0 23px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .book-now {
+    border-radius: 20px;
+    background-color: rgba(138, 207, 195, 1);
+    align-self: center;
+    margin-top: 19px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    padding: 2px 22px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-6 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    min-height: 34px;
+    margin-top: 18px;
+    width: 100%;
+  }
+</style>
+
+FRAME 8
+<div class="frame-8">
+  <div class="div">
+    <div class="div-2">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-2"
+      />
+    </div>
+    <div class="blood-donors-registration">Blood Donors Registration</div>
+    <img
+      loading="lazy"
+      srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/ee7cd2f141653092fb74e63bf766174b2c5555a52d205b5217a13e70c95b40d6?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+      class="img-3"
+    />
+    <div
+      class="please-fill-the-following-information-to-register-as-voluntary-blood-donor-kindly-update-your-date-of-donation-once-done-so-that-your-name-will-be-hidden-automatically-till-next-3-months-also-please-update-your-profile-information-if-in-case-you-relocate-in-future"
+    >
+      Please fill the following information to register as voluntary blood
+      donor.
+      <br />
+      Kindly update your date of donation once done, so that your name will be
+      hidden automatically till next 3 Months.
+      <br />
+      Also please update your profile/information if in case you relocate in
+      future. 
+    </div>
+    <div class="click-here-to-register">Click here to Register!</div>
+    <div class="register">Register</div>
+    <div class="div-3"></div>
+  </div>
+</div>
+<style>
+  .frame-8 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0 3px;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    max-width: 257px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .blood-donors-registration {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 23px;
+    font: 700 15px Poppins, sans-serif;
+  }
+  .img-3 {
+    aspect-ratio: 1.03;
+    object-fit: contain;
+    object-position: center;
+    width: 152px;
+    margin-top: 23px;
+    max-width: 100%;
+  }
+  .please-fill-the-following-information-to-register-as-voluntary-blood-donor-kindly-update-your-date-of-donation-once-done-so-that-your-name-will-be-hidden-automatically-till-next-3-months-also-please-update-your-profile-information-if-in-case-you-relocate-in-future {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 23px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-register {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 29px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .register {
+    border-radius: 20px;
+    background-color: rgba(138, 207, 195, 1);
+    margin-top: 19px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    white-space: nowrap;
+    padding: 6px 29px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-3 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    min-height: 34px;
+    margin-top: 33px;
+    width: 100%;
+  }
+</style>
+
+FRAME9
+<div class="frame-9">
+  <div class="div">
+    <div class="div-2">
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/6d212f6b01cfe76fedcc14d95fac670ae7b1fca3badb0abd67f98571d4d4a3ed?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img"
+      />
+      <img
+        loading="lazy"
+        srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/dab924e59f155d3c105cd2c48012cd5370f627d722693290893be8bc6b19150e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+        class="img-2"
+      />
+    </div>
+    <div class="blood-receiver-registration">Blood Receiver Registration</div>
+    <img
+      loading="lazy"
+      srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/59ee155a7eb442a90204649e9d887f88da847064e56e1797d0b646e75ea7454e?placeholderIfAbsent=true&apiKey=b2ebf3947ec44006b2743bd88e6390c5"
+      class="img-3"
+    />
+    <div
+      class="please-fill-the-following-information-to-register-if-blood-needed-kindly-update-your-location-to-find-the-nearby-hospitals-with-the-availability-if-its-urgent-kindly-contact-the-respective-nearby-hospital-also-please-update-your-profile-information-if-in-case-you-relocate-in-future"
+    >
+      Please fill the following information to register if blood needed.
+      <br />
+      Kindly update your location to find the nearby hospitals with the
+      availability.
+      <br />
+      If it’s urgent, kindly contact the respective nearby hospital.
+      <br />
+      Also please update your profile/information if in case you relocate in
+      future. 
+    </div>
+    <div class="click-here-to-register">Click here to Register!</div>
+    <div class="register">Register</div>
+    <div class="div-3"></div>
+  </div>
+</div>
+<style>
+  .frame-9 {
+    display: flex;
+    max-width: 305px;
+    flex-direction: column;
+  }
+  .div {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 0 3px;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    max-width: 257px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1.04;
+    object-fit: contain;
+    object-position: center;
+    width: 29px;
+    align-self: start;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 30px;
+  }
+  .blood-receiver-registration {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 19px;
+    font: 700 15px Poppins, sans-serif;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: contain;
+    object-position: center;
+    width: 144px;
+    margin-top: 21px;
+    max-width: 100%;
+  }
+  .please-fill-the-following-information-to-register-if-blood-needed-kindly-update-your-location-to-find-the-nearby-hospitals-with-the-availability-if-its-urgent-kindly-contact-the-respective-nearby-hospital-also-please-update-your-profile-information-if-in-case-you-relocate-in-future {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 22px;
+    font: 300 10px Poppins, sans-serif;
+  }
+  .click-here-to-register {
+    color: rgba(0, 0, 0, 1);
+    margin-top: 23px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .register {
+    border-radius: 20px;
+    background-color: rgba(138, 207, 195, 1);
+    margin-top: 18px;
+    width: 109px;
+    max-width: 100%;
+    color: rgba(0, 0, 0, 1);
+    white-space: nowrap;
+    padding: 8px 29px;
+    font: 700 12px Poppins, sans-serif;
+  }
+  .div-3 {
+    background-color: rgba(138, 207, 195, 1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-self: stretch;
+    display: flex;
+    min-height: 34px;
+    margin-top: 32px;
+    width: 100%;
+  }
+</style>
