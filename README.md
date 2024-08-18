@@ -123,7 +123,7 @@ Team members
 * Pramoth S - pramothsekar@gmail.com
 * Reshmitha R - rreshmitha22@gmail.com
 * Partiban M - banparthi1417@gmail.com
-* Thejashree - 
+* Thejashree - thejasree148@gmail.com
 
 Project Link: [https://github.com/RESH-22/Hackintym-24.git](https://github.com/RESH-22/Hackintym-24.git)
 
